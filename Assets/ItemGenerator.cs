@@ -77,5 +77,7 @@ public class ItemGenerator : MonoBehaviour
         //(課題)
         //unityちゃんの位置ーカメラ外になる位置 にきたオブジェクトたちを破棄するのだと思う
         //this.unitychan.transform.position.z
+
+        
     }
 }
