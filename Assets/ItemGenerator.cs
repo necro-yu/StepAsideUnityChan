@@ -70,14 +70,6 @@ public class ItemGenerator : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        //(発展課題)
-        //startでは今まで通り、オブジェクトの取得のみ行うのだと思う
-        //unityちゃんの位置＋40～50の位置までにオブジェクトを生成していくのだと思う
 
-        //(課題)
-        //unityちゃんの位置ーカメラ外になる位置 にきたオブジェクトたちを破棄するのだと思う
-        //this.unitychan.transform.position.z
-
-        
     }
 }
